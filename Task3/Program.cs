@@ -42,6 +42,6 @@ class Program
 
         s = Math.Round(s, 3);
 
-        Console.WriteLine($"s = {s}");
+        Console.WriteLine($"s = {s:F3}");
     }
 }
